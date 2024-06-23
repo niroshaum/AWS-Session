@@ -12,6 +12,7 @@ DOMAIN= ""
 PORT=3000
 STATIC_DIR="./client"
 
+(use stripe account keys)
 PUBLISHABLE_KEY=""
 SECRET_KEY=""
 ```
